@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(53, 59, 92);
+}
+.navbar-brand:link{
+
+}
+.card-header{
+  background-color: #212529;
+  color: aliceblue;
+}
+.card{
+  border: 2px solid rgba(0, 0, 0, 0.54);
+}
